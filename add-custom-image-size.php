@@ -16,3 +16,5 @@ function custom_image_sizes_choose($sizes) {
 	));
 }
 add_filter('image_size_names_choose', 'custom_image_sizes_choose');
+
+// new comment
